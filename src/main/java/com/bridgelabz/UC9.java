@@ -17,8 +17,8 @@ public class UC9 {
 
     public static void main(String[] args){
 
-        UC8 company1 = new UC8();
-        UC8 company2 = new UC8();
+        UC9 company1 = new UC9();
+        UC9 company2 = new UC9();
 
         company1TotalWage=company1.employeeWage();
         System.out.println("Employee wage for company1: " + company1TotalWage);
